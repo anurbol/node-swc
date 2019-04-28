@@ -14,3 +14,4 @@ package-lock.json
 !lib/index.d.ts
 lib/**/*.js
 lib/**/*.ts
+config.bat
