@@ -13,3 +13,4 @@ package-lock.json
 # Built files
 /*.js
 /*.d.ts
+config.bat
