@@ -13,4 +13,7 @@ package-lock.json
 # Built files
 /*.js
 /*.d.ts
-config.bat
+
+# Incident containment: keep local environment secrets out of Git.
+.env
+.env.*
