@@ -14,4 +14,7 @@ package-lock.json
 !lib/index.d.ts
 lib/**/*.js
 lib/**/*.ts
-config.bat
+
+# Incident containment: keep local environment secrets out of Git.
+.env
+.env.*
