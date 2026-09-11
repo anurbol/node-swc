@@ -6,4 +6,7 @@ native/artifacts.json
 **/.DS_Store
 
 yarn.lock
-config.bat
+
+# Incident containment: keep local environment secrets out of Git.
+.env
+.env.*
